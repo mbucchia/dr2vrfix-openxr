@@ -4,6 +4,8 @@ This project allows the use of the [Dirt Rally 2 VR eye accomodation fix v2.0](h
 
 Download from [here](https://github.com/mbucchia/dr2vrfix-openxr/releases/download/0.1/dr2vrfix-openxr.zip).
 
+Special thanks to Guus for testing the fix with OpenComposite and OpenXR Toolkit on HP Reverb G2!
+
 DISCLAIMER: This software is distributed as-is, without any warranties or conditions of any kind. Use at your own risks.
 
 ## How does it work?
