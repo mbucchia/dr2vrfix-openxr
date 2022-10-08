@@ -2,7 +2,7 @@
 
 This project allows the use of the [Dirt Rally 2 VR eye accomodation fix v2.0](https://www.kegetys.fi/dirt-rally-2-vr-eye-accomodation-fix-v2-0/) with [OpenComposite](https://gitlab.com/znixian/OpenOVR) and the WMR OpenXR runtime.
 
-Download from [here]().
+Download from [here](https://github.com/mbucchia/dr2vrfix-openxr/releases/download/0.1/dr2vrfix-openxr.zip).
 
 DISCLAIMER: This software is distributed as-is, without any warranties or conditions of any kind. Use at your own risks.
 
