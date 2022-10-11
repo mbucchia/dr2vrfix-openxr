@@ -1,6 +1,6 @@
-# dr2vrfix-openxr: A wrapper of the Dirt Rally 2 VR eye accomodation fix to work with the WMR OpenXR runtime.
+# dr2vrfix-openxr: A wrapper of the Dirt Rally 2 VR eye accomodation fix to work with the WMR OpenXR runtime and OpenXR Toolkit.
 
-This project allows the use of the [Dirt Rally 2 VR eye accomodation fix v2.0](https://www.kegetys.fi/dirt-rally-2-vr-eye-accomodation-fix-v2-0/) with [OpenComposite](https://gitlab.com/znixian/OpenOVR) and the WMR OpenXR runtime.
+This project allows the use of the [Dirt Rally 2 VR eye accomodation fix v2.0](https://www.kegetys.fi/dirt-rally-2-vr-eye-accomodation-fix-v2-0/) with [OpenComposite](https://gitlab.com/znixian/OpenOVR), the WMR OpenXR runtime, and (optionally) [OpenXR Toolkit](https://mbucchia.github.io/OpenXR-Toolkit/).
 
 Download from [here](https://github.com/mbucchia/dr2vrfix-openxr/releases/download/0.1/dr2vrfix-openxr.zip).
 
